@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+/msvc/armaminpack_test/.vs/armaminpack_test
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.tlog
+/msvc/armaminpack_test/x64/Debug/vc141.pdb
+/msvc/armaminpack_test/x64/Debug/vc141.idb
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.pdb
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.new.obj.enc
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.log
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.ilk
+/msvc/armaminpack_test/x64/Debug/armaminpack_test.Build.CppClean.log
+/armadillo/misc
